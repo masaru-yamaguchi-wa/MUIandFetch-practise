@@ -5,7 +5,10 @@
 
 
 # I tried
-- Use MUI
-- Use useEffect and fetch
+- MUI
+- fetch with useEffect
+- React router dom  
+
+<br>
 
 ### My first MUI was fun.
